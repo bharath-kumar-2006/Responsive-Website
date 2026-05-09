@@ -1,0 +1,97 @@
+.logo {
+    height: 65px;
+    width: 80px;
+}
+
+#color1 {
+    color: black;
+}
+
+#color2 {
+    color: black;
+}
+
+#color3 {
+    color: black;
+}
+
+#color4 {
+    color: black;
+}
+
+.button-logo {
+    background-color: #4a1d1a;
+    height: 40px;
+    width: 120px;
+    color: white;
+    font-family: "Roboto";
+    border-radius: 4px;
+    border-width: 0px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.navbar-bg-container {
+    height: 100vh;
+    background-image: url("https://pbs.twimg.com/media/F2gvzzObEAAaswn?format=jpg&name=4096x4096");
+    background-size: cover;
+    width: 100vw;
+}
+
+.wcu-header {
+    color: #a9c9c7;
+    font-size: 28px;
+}
+
+.tfi-card {
+    background-color: #2d6940;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.image {
+    border-radius: 8px;
+}
+
+.card-header {
+    font-size: 28px;
+}
+
+.navbar-wcu-section {
+    background-color: #f2e3ff;
+}
+
+.card-header {
+    color: #4f4f4f;
+    font-size: 24px;
+}
+
+.tfi-collection-page {
+    background-color: #f2e3ff;
+}
+
+.collheader {
+    color: #4f4f4f;
+    font-size: 26px;
+    font-family: "Bree Serif";
+}
+
+.collcard-header {
+    color: #4f4f4f;
+    font-size: 22px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.collcard {
+    background-color: #2f0942;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.colcrd {
+    background-color: #dacee0;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 10px;
+}
